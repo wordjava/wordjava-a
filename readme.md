@@ -10,5 +10,5 @@ zsx分支修改
 
 dev分支修改但不提交
 
-
+dev分支修改但不提交,然后使用git stash藏匿
 已经将dev分支未提交修改git stash藏匿了，进行bug修复后合并（或者复制bug部分）到master分支
